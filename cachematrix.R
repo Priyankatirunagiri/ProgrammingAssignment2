@@ -1,4 +1,4 @@
-## Priyanka Tirunagiri Script Date: 02/21/2016
+## Priyanka Tirunagiri Script Date: 02/25/2016
 
 ##The purpose of this R function is to cache potentially time-consuming computations like calculating the inverse 
 ## of a matrix. This function calculates the inverse of a matrix and caches it for repeated usage instead of 
